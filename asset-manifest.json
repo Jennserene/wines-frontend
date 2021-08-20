@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/wines-frontend/static/css/main.a617e044.chunk.css",
-    "main.js": "/wines-frontend/static/js/main.3188d8ef.chunk.js",
-    "main.js.map": "/wines-frontend/static/js/main.3188d8ef.chunk.js.map",
+    "main.js": "/wines-frontend/static/js/main.5661a7a7.chunk.js",
+    "main.js.map": "/wines-frontend/static/js/main.5661a7a7.chunk.js.map",
     "runtime-main.js": "/wines-frontend/static/js/runtime-main.a2e7a4a2.js",
     "runtime-main.js.map": "/wines-frontend/static/js/runtime-main.a2e7a4a2.js.map",
-    "static/js/2.ce521677.chunk.js": "/wines-frontend/static/js/2.ce521677.chunk.js",
-    "static/js/2.ce521677.chunk.js.map": "/wines-frontend/static/js/2.ce521677.chunk.js.map",
+    "static/js/2.89ecd5c4.chunk.js": "/wines-frontend/static/js/2.89ecd5c4.chunk.js",
+    "static/js/2.89ecd5c4.chunk.js.map": "/wines-frontend/static/js/2.89ecd5c4.chunk.js.map",
     "static/js/3.9a17ebc2.chunk.js": "/wines-frontend/static/js/3.9a17ebc2.chunk.js",
     "static/js/3.9a17ebc2.chunk.js.map": "/wines-frontend/static/js/3.9a17ebc2.chunk.js.map",
     "index.html": "/wines-frontend/index.html",
     "static/css/main.a617e044.chunk.css.map": "/wines-frontend/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.ce521677.chunk.js.LICENSE.txt": "/wines-frontend/static/js/2.ce521677.chunk.js.LICENSE.txt"
+    "static/js/2.89ecd5c4.chunk.js.LICENSE.txt": "/wines-frontend/static/js/2.89ecd5c4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a2e7a4a2.js",
-    "static/js/2.ce521677.chunk.js",
+    "static/js/2.89ecd5c4.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.3188d8ef.chunk.js"
+    "static/js/main.5661a7a7.chunk.js"
   ]
 }
